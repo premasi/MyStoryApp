@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">My Story App</string>
+    <string name="login">Login</string>
+    <string name="regis">Registrasi</string>
+    <string name="name">Nama</string>
+    <string name="password">Password</string>
+
+    <string name="login_illustration">Login_illustration</string>
+
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+
+    <string name="error_message_email">Email tidak boleh kosong</string>
+    <string name="error_message_email_nonvalid">Email tidak valid</string>
+    <string name="error_message_username">Nama tidak boleh kosong</string>
+    <string name="error_message_password">Password harus lebih panjang dari 6</string>
+    <string name="error_message_password2">Password tidak boleh kosong</string>
+
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="message_create_account">Akun tidak berhasil dibuat :(</string>
+    <string name="message_success">Akun berhasil dibuat</string>
+    <string name="alert">Pemberitahuan</string>
+    <string name="ok">OK</string>
+    <string name="status">Created</string>
+
+    <string name="logout">Logout</string>
+    <string name="confirmation">Apakah anda yakin ingin keluar?</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="badrequest">Masukan akun dengan benar</string>
+
+    <string name="story_sukses">Data berhasil ditampilkan</string>
+    <string name="story_gagal">Data gagal ditampilkan</string>
+    <string name="dummy">dummy</string>
+    <string name="notfound">tidak ada cerita terbaru</string>
+    <string name="check_internet">Internet tidak terhubung</string>
+    <string name="bahasa">Bahasa</string>
+
+    <string name="camera">Kamera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Unggah</string>
+    <string name="max_300_kata">Max 300 kata</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="izin">Tidak mendapatkan permission.</string>
+    <string name="choose">Pilih gambar terlebih dahulu</string>
+    <string name="upload_sukses">Upload berhasil</string>
+    <string name="upload_gagal">Upload gagal</string>
+    <string name="confirmation_upload">Apakah anda yakin ingin mengunggah?</string>
+    <string name="deskripsiempty">Deskripsi tidak boleh kosong</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="izin_location">Izin diberikan</string>
+    <string name="loading">Loading...</string>
+
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Story App</string>
+    <string name="login">Login</string>
+    <string name="regis">Registration</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+
+    <string name="login_illustration">Login_illustration</string>
+
+    <string name="sudah_punya_akun">Already have account?</string>
+    <string name="belum_punya_akun">Don\'t have account?</string>
+
+    <string name="error_message_email">Email cannot be empty</string>
+    <string name="error_message_email_nonvalid">Email is not valid</string>
+    <string name="error_message_username">Name cannot be empty</string>
+    <string name="error_message_password">Password must be longer than 6</string>
+    <string name="error_message_password2">Password cannot be empty</string>
+
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="message_create_account">Account was failed to create :(</string>
+    <string name="message_success">Account create</string>
+    <string name="alert">Alert</string>
+    <string name="ok">OK</string>
+    <string name="status">Created</string>
+
+    <string name="logout">Logout</string>
+    <string name="confirmation">Do you sure want to leave?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="badrequest">Enter account correctly</string>
+
+    <string name="story_sukses">Data success to load</string>
+    <string name="story_gagal">Data failed to load</string>
+    <string name="dummy">dummy</string>
+    <string name="notfound">Stories not found</string>
+    <string name="check_internet">Internet not found</string>
+    <string name="bahasa">Language</string>
+
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="max_300_kata">Max 300 words</string>
+    <string name="deskripsi">Description</string>
+    <string name="izin">Permission was not granted.</string>
+    <string name="choose">Choose image first</string>
+    <string name="upload_sukses">Upload success</string>
+    <string name="upload_gagal">Upload failed</string>
+    <string name="confirmation_upload">Are you sure want to upload?</string>
+    <string name="deskripsiempty">Description cannot be empty</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="izin_location">Permission Granted</string>
+    <string name="loading">Loading...</string>
+</resources>

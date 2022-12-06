@@ -1,0 +1,64 @@
+RegistrationViewModelTest :
+Ketika berhasil membuat akun
+- Memastikan data tidak null
+- Memastikan mengembalikan Result.Success
+
+Ketika gagal membuat akun
+- Memastikan data tidak null
+- Memastikan mengembalikan Result.Error
+
+LoginViewModelTest :
+Ketika berhasil login
+- Memastikan data tidak null
+- Memastikan mengembalikan Result.Success
+
+Ketika gagal login
+- Memastikan data tidak null
+- Memastikan mengembalikan Result.Error
+
+HomeViewModelTest:
+Ketika data story tidak null dan berhasil mendapatkan data
+- Memastikan data tidak null
+- Memastikan data yang dimiliki sama
+- Memastikan ukuran data yang dimiliki sama
+- Memastikan urutan id sama
+
+UploadViewModelTest:
+Ketika upload berhasil
+- Memastikan data tidak null
+- Memastikan mengembalikan Result.Success
+
+Ketika upload gagal
+- Memastikan data tidak null
+- Memastikan mengembalikan Result.Error
+
+SettingViewModelTest:
+ketika data di userpreferences tidak null dan mengembalikan data berhasil
+- Memverifikasi fungsi getUser() yang ada di storyRepository
+- Memastikan token tidak null
+- Memastikan isLogin adalah true
+
+Ketika logout dilakukan
+- Memverifikasi fungsi logout() yang ada di storyRepository
+
+DetailViewModelTest:
+Ketika data detail tidak null dan berhasil mengembalikan nilai
+- Memverifikasi fungsi getStoryDetail() yang ada di storyRepository
+- Memastikan data tidak null
+- Memastikan mengembalikan Result.Success
+
+Ketika data detail null dan gagal mengembalikan nilai
+- Memverifikasi fungsi getStoryDetail() yang ada di storyRepository
+- Memastikan data tidak null
+- Memastikan mengembalikan Result.Error
+
+MapsViewModelTest:
+Ketika data maps tidak null dan berhasil mengembalikan nilai
+- Memverifikasi fungsi getStoryWithLocation() yang ada di storyRepository
+- Memastikan data tidak null
+- Memastikan mengembalikan Result.Success
+
+Ketika data maps null dan gagal mengembalikan nilai
+- Memverifikasi fungsi getStoryWithLocation() yang ada di storyRepository
+- Memastikan data tidak null
+- Memastikan mengembalikan Result.Error
